@@ -1,14 +1,15 @@
 Hi, I’m @line-greys, a student at NYU Shanghai aiming to graduate in June 2023.
 
-I’m interested in Computer Networking, Computer Games and Software Development.
-I’m currently learning C#, JavaScript and Game Development in Unity.
-I’m looking to collaborate on projects that aim at achieving something new! 
+I’m interested in Computer Networking, Operating Systems, Video Games and Software Development.
+I have experience with Python, C#, HTML and JavaScript.
+I’m currently working on projects in C++ and Game Development in Unity.
+I'd love to collaborate on innovative and inclusive projects! 
 How to reach me:
 
-Mobile: +86 15021039867
-Email: ag7138@nyu.edu
+Mobile: +49 15167715409
+Email: ag7138@nyu.edu OR aline@grobys.de
 LinkedIn: linkedin.com/in/aline-grobys-b18541212 
-WeChat ID: alinegrb16
+WeChat ID: alinelostinspace
 
 <!---
 line-greys/line-greys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
