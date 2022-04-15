@@ -7,7 +7,7 @@ I'd love to collaborate on exciting and inclusive projects!
 How to reach me:
 
 Mobile: +49 15167715409
-Email: ag7138@nyu.edu OR aline@grobys.de
+Email: ag7138@nyu.edu or aline@grobys.de
 LinkedIn: linkedin.com/in/aline-grobys-b18541212 
 WeChat ID: alinelostinspace
 
