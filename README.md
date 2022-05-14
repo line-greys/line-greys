@@ -3,7 +3,7 @@ Hi, I’m @line-greys, a student at NYU Shanghai aiming to graduate in May 2023.
 I’m interested in Computer Networking, Operating Systems, Video Games and Software Development.
 I have experience with Python, C#, HTML and JavaScript.
 I’m currently working on projects in C++ and Game Development in Unity.
-I'd love to collaborate on projects with a vision! 
+I'd love to collaborate on anything you're excited about! 
 How to reach me:
 
 Mobile: +49 15167715409
